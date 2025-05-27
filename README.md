@@ -3,10 +3,13 @@
 
 歡迎來到「肉肉小舖」的官方網站！  
 
+# 肉肉小舖圖片展示
 
+牛排圖片：  
+![牛排](images/beef.jpg)
 
+豬五花圖片：  
+![豬五花](images/pork.jpg)
 
-| -------------- | -------------------------------- |
-| `images/beef.jpg`    | 首頁橫幅背景及牛排商品圖片          |
-| `images/pork.jpg`    | 豬五花商品圖片                      |
-| `images/chicken.jpg` | 雞腿排商品圖片                      |
+雞腿排圖片：  
+![雞腿排](images/chicken.jpg)
